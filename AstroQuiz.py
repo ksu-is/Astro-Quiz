@@ -149,4 +149,4 @@ else:
     print("Incorrect :( the correct answer is the Moon" )
 
 print("Congrats cadet! You got " + str(score) + " out of 20 questions correct." )
-print("Your final score is " + str((score / 4) * 100) + "%." )
+print("Your final score is " + str((score / 20) * 100) + "%." )
